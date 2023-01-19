@@ -26,10 +26,16 @@ img {
 
 h1 {
     font-size: 2.25rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2, h3 {
+    font-family: 'Open Sans', sans-serif;
 }
 
 p {
     font-size: 0.75rem;
+    font-family: 'Open Sans', sans-serif;
 }
 
 @media only screen and (max-width: 480px) {
