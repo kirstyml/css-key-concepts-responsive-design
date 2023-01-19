@@ -60,7 +60,7 @@ const cats= [
         "species" : "Bird?",
         "favFoods" : ["your soul"],
         "birthYear" : 2020,
-        "photo" : "https://www.top13.net/wp-content/uploads/2015/10/perfectly-timed-cat-photos-funny-cover.jpg"
+        "photo" : "https://www.boredpanda.com/blog/wp-content/uploads/2015/09/funny-perfectly-timed-cat-photo-50__605.jpg"
     },
     {
         "name" : "El Taco",
