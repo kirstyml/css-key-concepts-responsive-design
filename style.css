@@ -13,10 +13,17 @@ body {
 .card {
     padding: 10px;
     margin: 10px;
+    flex: 1 1 0;
+    background-color: white;
+    border-radius: 2px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 }
 
 img {
-    width: 250px;
+    width: 100%;
+    min-width: 250px;
+    height: 20vh;
+    object-fit: cover;
 }
 
 .card-container {
